@@ -1,0 +1,14 @@
+From: security-alert@g00gle.com
+To: student@ivycollegiate.org
+Subject: URGENT: Your account will be deleted in 24 hours
+
+Dear User,
+
+We detected unusual sign-in activity on your account. If you do not
+verify your identity within 24 HOURS, your account and all files
+will be permanently deleted.
+
+Verify now: http://g00gle-secure-login.verify-account.tk
+
+Thank you,
+Account Security Team

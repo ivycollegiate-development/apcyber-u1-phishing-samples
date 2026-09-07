@@ -1,0 +1,13 @@
+From: Citibank <no-reply@citi-bank-secure.com>
+To: client@mail.com
+Subject: Suspicious OTP request — action required
+
+We blocked an unusual one-time passcode (OTP) request on your
+account at 03:42 AM from an unknown device in Kaohsiung.
+
+If this was NOT you, enter your current OTP and card details at:
+https://citi-verify.com/unlock
+
+Failure to respond will result in account suspension.
+
+— Citi Fraud Prevention Division

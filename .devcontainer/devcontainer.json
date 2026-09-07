@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Classification Lab",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {},
+  "postCreateCommand": "echo 'Welcome! Read emails/ and file one GitHub Issue per email. See README.md.'"
+}

@@ -1,0 +1,10 @@
+From: DHL Express <delivery@dhl-parcel-redelivery.com>
+Subject: Package delivery failed — redelivery fee required
+
+Your package #DHL8834721 could not be delivered because the
+address was incomplete.
+
+Pay the NT$45 redelivery fee within 48 hours to reschedule:
+https://dhl-redelivery-tw.com/pay
+
+Unclaimed packages are returned to sender after 5 days.
